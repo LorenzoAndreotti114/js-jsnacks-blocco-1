@@ -5,7 +5,7 @@ button.addEventListener("click", function() {
 
     console.log("start");
 
-    const maxNumber = 3
+    const maxNumber = 10
 
     let totNumber = 0
 
